@@ -1,0 +1,5 @@
+date,check,before_change,after_change,status,caveat
+2026-10-12,Cursor/touch circles on external monitor 2,Observed with lid closed,Not observed after HID touch screen disabled,Initial pass,Long-term recurrence not yet checked
+2026-10-12,External-monitor flickering,Observed with lid closed or repositioned,Not observed at immediate follow-up,Initial pass,Separate USB-C connection factor not independently excluded
+2026-10-12,External desktop layout,Originally reported mirroring with lid open,Windows configured with external displays extended and internal display 1 disconnected,Reported working,Video cable topology not independently verified
+2026-10-12,Lid/power behavior,Previous lid position workaround,On AC Do nothing; on battery Hibernate,Configured,Monitor temperature and ventilation when lid closed

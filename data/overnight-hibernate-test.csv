@@ -1,0 +1,2 @@
+date,start_charge_percent,end_charge_percent,start_time,end_time,on_battery,lid_action,boot_or_tpm_warning,bitlocker_recovery_prompt,notes
+2026-10-11,100,100,not recorded,not recorded,yes,Hibernate,not reported,not reported,Morning of 2026-10-12: displayed charge remained 100%; no exact times or new boot/security observations reported
